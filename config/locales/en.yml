@@ -1,0 +1,20 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  layouts:
+   application:
+    title: "Pragmatic Bookshelf"
+    home: "Home"
+    questions: "Questions"
+    new: "News"
+    contact: "Contact"
+  store:
+   index:
+    title_html: "Your Pragmatic Catalog"
+    add_html: "Add to Cart"
+  carts:
+   cart:
+    title: "Carrito de la Compra"
+    empty: "Empty Cart"
+    checkout: "Checkout"

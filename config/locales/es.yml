@@ -12,6 +12,6 @@ es:
     add_html: "Añadir al carrito"
  carts:
   cart:
-   title: "Carrito de compras wwww"
+   title: "Carrito de compras"
    empty: "Vaciar carrito"
    checkout: "Comprar"
